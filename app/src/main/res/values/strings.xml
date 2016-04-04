@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+        <string name="app_name">Notas App</string>
+        <string name="Configuration_app">Configuracion App</string>
+        <string name="Exposition">Exposicion</string>
+        <string name="Practice">Practica</string>
+        <string name="Project">Proyecto</string>
+        <string name="Calculate">Calcular</string>
+        <string name="Clean">Limpiar</string>
+        <string name="Final_Grade">Nota final</string>
+        <string name="Save">Guardar</string>
+        <string name="NotificationConfiguracion">¡Los porcentajes deben sumar 100%!</string>
+    </resources>
+
